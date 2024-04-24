@@ -45,7 +45,9 @@
         "Collection",
         "CollectionImage",
         "QuestionSet",
-        "QuestionSetImage"
+        "QuestionSetImage",
+        "Event",
+        "EventImage"
       ]
     },
     "collections": {
